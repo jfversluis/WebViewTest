@@ -68,7 +68,7 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <CodesignProvision>VS: WildCard Development</CodesignProvision>
     <MtouchLink>SdkOnly</MtouchLink>
-    <MtouchExtraArgs>--optimize=experimental-xforms-product-type –warn-on-type-ref=UIKit.UIWebView</MtouchExtraArgs>
+    <MtouchExtraArgs>--optimize=experimental-xforms-product-type</MtouchExtraArgs>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
